@@ -1,7 +1,9 @@
 📜 Política de Privacidad y Seguridad
 
 Última actualización: 26 de agosto de 2025
+
 Aplicación: Random Dungeon Generator
+
 Desarrollador: PEPESPAIN Dev Company
 
 1. Recolección de datos
