@@ -42,5 +42,4 @@ En caso de cambios importantes, se notificará a través de la aplicación o de 
 7. Contacto
 
 Si tienes preguntas o inquietudes sobre esta política, puedes contactarnos en:
-📧 [tu-email@ejemplo.com
-]
+📧 [pepespain@gmail.com]
